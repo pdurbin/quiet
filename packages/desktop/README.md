@@ -19,12 +19,6 @@ If you run into problems please double check if you have exact version Node and 
 npm run start
 ```
 
-If building on an M1 Mac:
-1. Install [fnm](https://github.com/Schniz/fnm)
-2. Run `fnm use 18.12.1`
-3. Run `fnm install 18.12.1 --arch x64`
-4. Follow the instructions here to run leveldown packages for the M1 architecture: https://github.com/orbitdb/orbit-db/issues/1019#issuecomment-1324219877
-
 ----
 
 ## Versioning packages
